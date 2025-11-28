@@ -117,6 +117,7 @@ export class UIManager {
                 <b>Controls:</b><br>
                 Click to capture mouse<br>
                 WASD / Arrows to move<br>
+                Q / E to Roll<br>
                 Space / Shift to move Up/Down<br>
                 ESC to release mouse
             </div>

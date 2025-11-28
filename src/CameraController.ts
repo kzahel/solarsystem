@@ -16,7 +16,7 @@ export class CameraController {
     private rollRight = false;
 
     // Physics/Speed
-    private velocity = new THREE.Vector3();
+
     private speed = 100; // Units per second
     private rollSpeed = 2.0; // Radians per second
 

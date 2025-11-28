@@ -4,6 +4,8 @@
 
 A 3D visualization of the solar system using Vite, Three.js, and Astronomy Engine.
 
+Built using **Google Antigravity** and **Gemini 3 Pro Preview** in about 10 minutes of user time (and ~30 minutes of agent time).
+
 ## Development
 
 ### Setup

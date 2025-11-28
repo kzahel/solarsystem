@@ -1,5 +1,7 @@
 # Solar System Visualization
 
+> 🚀 **[Live Demo: kyle.graehl.org/solarsystem](https://kyle.graehl.org/solarsystem/)**
+
 A 3D visualization of the solar system using Vite, Three.js, and Astronomy Engine.
 
 ## Development

@@ -1,0 +1,27 @@
+# Solar System Webapp Task List
+
+- [x] Initialize Vite + TypeScript project <!-- id: 0 -->
+- [x] Install dependencies (Three.js, astronomy-engine) <!-- id: 1 -->
+- [x] Setup Basic Three.js Scene (Scene, Camera, Renderer) <!-- id: 2 -->
+- [x] Implement Starfield/Skybox <!-- id: 3 -->
+- [x] Implement Sun and Lighting <!-- id: 4 -->
+- [x] Implement Planets (Geometry, Textures, Orbits) <!-- id: 5 -->
+    - [x] Mercury <!-- id: 6 -->
+    - [x] Venus <!-- id: 7 -->
+    - [x] Earth + Moon <!-- id: 8 -->
+    - [x] Mars <!-- id: 9 -->
+    - [x] Jupiter <!-- id: 10 -->
+    - [x] Saturn <!-- id: 11 -->
+    - [x] Uranus <!-- id: 12 -->
+    - [x] Neptune <!-- id: 13 -->
+- [x] Implement Orbit Mechanics (astronomy-engine integration) <!-- id: 14 -->
+- [x] Implement Camera Controls (Free fly: Arrow keys move, Mouse look) <!-- id: 15 -->
+- [x] Implement UI Overlay (HTML/CSS) <!-- id: 16 -->
+    - [x] Time Scale Slider <!-- id: 17 -->
+    - [x] Toggles (Constellations, Labels) <!-- id: 18 -->
+    - [x] Size Adjustment Sliders (Min Planet, Min Moon) <!-- id: 19 -->
+- [x] Implement Labels (CSS2DRenderer) <!-- id: 20 -->
+- [x] Implement Constellations (Visual Lines) <!-- id: 21 -->
+- [x] Polish & Aesthetics (Bloom, realistic textures, smooth UI) <!-- id: 22 -->
+- [x] Automated Verification (Vitest: Orbits, Rotation, Positions) <!-- id: 23 -->
+- [x] Manual Verification & Walkthrough <!-- id: 24 -->
